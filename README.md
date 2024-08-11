@@ -4,7 +4,7 @@ This repository contains the source code for the the Sundown-Studio  project .
 
 ## Contents
 
-[About](#about) | [Technologies Used](#technologies-used) | [Screenshots](#screenshots) | [License](#license)
+[About](#about) | [Technologies Used](#technologies-used) | [Screenshots](#screenshots) 
 
 ## About
 
