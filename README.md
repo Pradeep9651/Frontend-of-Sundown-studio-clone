@@ -1,6 +1,6 @@
 # Frontend-of-Sundown-studio-clone
 
-This repository contains the source code for the the Sundown-Studio  project and the website is (webite:https://www.google.com/search?q=sundown+studio&rlz=1C1CHBD_enIN1036IN1036&oq=sundown&gs_lcrp=EgZjaHJvbWUqBwgDEAAYgAQyDwgAEEUYORixAxjJAxiABDINCAEQLhivARjHARiABDINCAIQABiSAxiABBiKBTIHCAMQABiABDIKCAQQABixAxiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDYzMjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8 ).
+This repository contains the source code for the the Sundown-Studio  project .
 
 ## Contents
 
